@@ -6,7 +6,7 @@ If I could mark something in a web-page, I would to mark unknown/complex words/p
 ## Using
 
 Hotkeys:
-- Mark: `Alt+\``
+- Mark: `Alt+Backquote`
 - Copy marks: `Alt+c`
 - Clean marks: `Alt+l`
 
